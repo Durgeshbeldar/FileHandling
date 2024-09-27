@@ -1,0 +1,14 @@
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+S:\Office Work\Monocept Training\Assignments\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

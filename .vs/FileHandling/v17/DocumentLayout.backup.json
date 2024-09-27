@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|s:\\office work\\monocept training\\assignments\\filehandling\\filehandling\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|s:\\office work\\monocept training\\assignments\\filehandling\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\filehandling\\models\\xmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\models\\xmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\filehandling\\models\\htmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\models\\htmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FileHandling||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\filehandling\\models\\txtfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\models\\txtfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A21C8B-36F6-44B3-AE97-CEC95FADEFCD}|FileHandling\\FileHandling.csproj|s:\\office work\\monocept training\\assignments\\filehandling\\filehandling\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHandling",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\FileHandling.csproj",
+              "RelativeDocumentMoniker": "FileHandling\\FileHandling.csproj",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\FileHandling.csproj",
+              "RelativeToolTip": "FileHandling\\FileHandling.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-27T17:16:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TxtFile.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\TxtFile.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Models\\TxtFile.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\TxtFile.cs",
+              "RelativeToolTip": "FileHandling\\Models\\TxtFile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:51:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlFile.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\HtmlFile.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Models\\HtmlFile.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\HtmlFile.cs",
+              "RelativeToolTip": "FileHandling\\Models\\HtmlFile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:51:38.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlFile.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\XmlFile.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Models\\XmlFile.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Models\\XmlFile.cs",
+              "RelativeToolTip": "FileHandling\\Models\\XmlFile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:51:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:39:27.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\UserInput.cs",
+              "RelativeDocumentMoniker": "FileHandling\\UserInput.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\FileHandling\\FileHandling\\UserInput.cs",
+              "RelativeToolTip": "FileHandling\\UserInput.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:13:26.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
